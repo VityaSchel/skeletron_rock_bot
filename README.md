@@ -1,8 +1,10 @@
 # СКЕЛЕТ БОТ
 
-Из того самого видео в тиктоке ссылку на которое я оставить не могу здесь.
+Из того самого видео в тиктоке ссылку на которое я оставить не могу здесь, зато могу загрузить в виде файла (**Включите звук!**):
 
-По мотивам [https://www.youtube.com/watch?v=ojLZ_v7201I](https://www.youtube.com/watch?v=ojLZ_v7201I).
+https://user-images.githubusercontent.com/59040542/156280730-a233a3ed-044d-4852-9dac-d6263470b508.mp4
+
+По мотивам [https://www.youtube.com/watch?v=ojLZ_v7201I](https://www.youtube.com/watch?v=ojLZ_v7201I) канала Uncle Knuckles.
 
 Не поддерживается! если хотите добавить больше реплик — делайте форк.
 
